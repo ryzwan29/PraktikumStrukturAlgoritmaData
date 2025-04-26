@@ -1,4 +1,3 @@
-
 <?php
 class ArrayList {
     private $items = [];
